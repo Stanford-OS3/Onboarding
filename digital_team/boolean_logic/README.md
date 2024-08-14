@@ -22,3 +22,8 @@
 </p>
 
 ![This image shows the difference between a binary (digital) signal and a continuous (analog) one. Image trying to encode states for all the different values of the analog signal!](imgs/analog_vs_digital.jpg)
+*Image Source: [tutoroot](https://www.tutoroot.com/blog/what-are-analog-and-digital-signals-definition-difference-examples/)*
+
+<p>
+    This image shows the difference between a binary (digital) signal and a continuous (analog) one. Image trying to encode states for all the different values of the analog signal!
+</p>
